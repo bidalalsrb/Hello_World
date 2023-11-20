@@ -11,21 +11,37 @@
 
 ## 💡  개발 문서
 
-![요구사항.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cbe56eec-145e-48b6-8b36-48c3c54adfea/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD.png)
-
-![유스케이스.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/368e1ff7-c3b2-4c51-a9be-c0c4748aba91/%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4.png)
-
-![ERD.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7aca61fb-75cd-40b0-a474-61c98598a77f/ERD.png)
-
+<img
+  src="img/11.png"
+   width="100%"
+  height="80%"
+/>
+<img
+  src="img/22.png"
+   width="100%"
+  height="80%"
+/>
+<img
+  src="img/33.png"
+   width="100%"
+  height="80%"
+/>
 ## 🔎  상세 내용
 
 ---
 
-![일정.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb78a390-527e-4667-93c6-adf0b80a8e99/%EC%9D%BC%EC%A0%95.png)
-
+<img
+  src="img/44.png"
+   width="100%"
+  height="80%"
+/>
 ### 회원정보 [프로필 이미지]
 
-![마이페이지.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6985c753-79a2-472d-9c50-37885d21a6ef/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+<img
+  src="img/55.png"
+   width="100%"
+  height="80%"
+/>
 
 <aside>
 🐦
@@ -36,8 +52,11 @@
 
 ### 방명록
 
-![일촌.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca2e64e2-f4b6-4625-939c-ce9faf4ce7e0/%EC%9D%BC%EC%B4%8C.png)
-
+<img
+  src="img/66.png"
+   width="100%"
+  height="80%"
+/>
 <aside>
 🐦
 
@@ -47,7 +66,11 @@
 
 ### 일촌 신청
 
-![come일촌.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f8b8a5a8-036b-4dd8-a7dc-d4b8fd8c6420/come%EC%9D%BC%EC%B4%8C.png)
+<img
+  src="img/77.png"
+   width="100%"
+  height="80%"
+/>
 
 <aside>
 🐦
@@ -59,7 +82,11 @@
 
 ### 파도타기
 
-![파도.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4729e8f9-2801-4f8f-8cc0-fe542265c1e7/%ED%8C%8C%EB%8F%84.png)
+<img
+  src="img/88.png"
+   width="100%"
+  height="80%"
+/>
 
 <aside>
 🐦
@@ -70,7 +97,11 @@
 
 ### 세션 관리 (A → B 이동시 로그인세션, 타겟 세션 유지)
 
-![wnth.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/03304263-9f21-4a9e-9fcc-9d6164e3d29b/wnth.png)
+<img
+  src="img/99.png"
+   width="100%"
+  height="80%"
+/>
 
 <aside>
 🐦
@@ -94,13 +125,13 @@
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0e72097-fdd0-42b1-a9f1-6025244bc49e/Untitled.png)
+<img
+  src="img/10.png"
+   width="100%"
+  height="80%"
+/>
 
 ---
-
-## 📖  구현 영상
-
-https://www.youtube.com/watch?v=Ega-rXbqwS8
 
 ## 📝  담당한 기능
 
